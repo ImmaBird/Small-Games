@@ -1,6 +1,3 @@
-# Because mac os is bad
-.DS_Store
-
 # Binaries for programs and plugins
 *.exe
 *.exe~
